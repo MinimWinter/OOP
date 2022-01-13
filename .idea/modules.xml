@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chap_001/chap_001.iml" filepath="$PROJECT_DIR$/chap_001/chap_001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_02/chap_02.iml" filepath="$PROJECT_DIR$/chap_02/chap_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_03/chap_03.iml" filepath="$PROJECT_DIR$/chap_03/chap_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_04/chap_04.iml" filepath="$PROJECT_DIR$/chap_04/chap_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_05/chap_05.iml" filepath="$PROJECT_DIR$/chap_05/chap_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_06/chap_06.iml" filepath="$PROJECT_DIR$/chap_06/chap_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_07/chap_07.iml" filepath="$PROJECT_DIR$/chap_07/chap_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_08/chap_08.iml" filepath="$PROJECT_DIR$/chap_08/chap_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap_09/chap_09.iml" filepath="$PROJECT_DIR$/chap_09/chap_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cvOPR1.iml" filepath="$PROJECT_DIR$/cvOPR1.iml" />
+    </modules>
+  </component>
+</project>
